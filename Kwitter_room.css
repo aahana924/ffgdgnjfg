@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+}
+#logoutb{
+    margin-right: 800px;
+}
+h2{
+    color: white;
+    text-decoration:underline;
+}
+input{
+    width:400px;
+}
+img{
+    float: left;
+}

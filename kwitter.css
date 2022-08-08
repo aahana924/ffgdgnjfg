@@ -1,0 +1,48 @@
+body{
+    background-color: coral;
+}
+.card{
+
+    border-radius: 75;
+    margin-left: 50px;
+    height:auto;
+    width:400px;
+    float: left;
+    padding:15px;
+    text-align: left;
+    display:flex;
+    justify-content: space-between;
+   
+}
+.card-text{
+    font-size: larger;
+}
+h1{
+    margin-left: 600px;
+    color: white;
+    font-family:cursive;
+    font-style:italic;
+    width:100;
+
+}
+h2{
+    margin-left: 550px;
+    color: white;
+    font-family:cursive;
+    font-style:italic;
+    width:100;
+
+    
+}
+#username{
+    margin-left: 535px;
+    width:500px;
+
+}
+#passsword{
+    margin-left: 535px;
+    width:500px;
+}
+button{
+    margin-left: 550px;
+}
